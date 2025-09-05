@@ -21,5 +21,5 @@ This repository contains simplified and easy-to-understand Python implementation
 5. **CycleGAN (simplified)**  
    Unpaired image-to-image translation (experimental on MNIST).
 
-## Folder Structure
+
 
